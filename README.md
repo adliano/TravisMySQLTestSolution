@@ -5,7 +5,7 @@
 
 #### To set this user for testing you can use the `.travis.yml` file,
 
-### open the `.travis.yml' and add this lines.
+### open the `.travis.yml' and make sure you have this lines.
 
  >> test:<br>
  >> adapter: mysql2<br>
